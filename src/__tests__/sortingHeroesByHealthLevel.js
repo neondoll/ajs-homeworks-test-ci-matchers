@@ -1,4 +1,4 @@
-import sortingHeroesByHealthLevel from "../sortingHeroesByHealthLevel";
+import sortingHeroesByHealthLevel from '../sortingHeroesByHealthLevel';
 
 test('sortingHeroesByHealthLevel', () => {
   const heroes = [
